@@ -48,19 +48,3 @@ This is a Flutter application that uses Material 3 to create a bank application 
     <img src="assets/images/light/qr_code.jpg" width="300" height="auto" align="center">
     <img src="assets/images/light/select_source.jpg" width="300" height="auto" align="center">
 </div>
-
-## dark mode
-
-<div style="text-align:center; width: 100%;">
-    <img src="assets/images/dark/home.jpg" width="300" height="auto" align="center">
-    <img src="assets/images/dark/transfer.jpg" width="300" height="auto" align="center">
-    <img src="assets/images/dark/profile.jpg" width="300" height="auto" align="center">
-</div>
-</br>
-<div style="text-align:center; width: 100%;">
-    <img src="assets/images/dark/send.jpg" width="300" height="auto" align="center">
-    <img src="assets/images/dark/select_account.jpg" width="300" height="auto" align="center">
-    <img src="assets/images/dark/qr_code.jpg" width="300" height="auto" align="center">
-    <img src="assets/images/dark/select_source.jpg" width="300" height="auto" align="center">
-    <img src="assets/images/dark/send_success.jpg" width="300" height="auto" align="center">
-</div>
